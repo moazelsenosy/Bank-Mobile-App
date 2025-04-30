@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">banki_mobile</string>
+
+    <string-array name="Electricity_list" >
+        <item>North Cairo Electricity Distribution </item>
+        <item> South Cairo Electricity Distribution </item>
+        <item> Alexandria Electricity Distribution </item>
+        <item> South Cairo Electricity Distribution </item>
+        <item> Canal Electricity Distribution </item>
+        <item> Middle Egypt Electricity Distribution </item>
+    </string-array>
+
+
+    <string-array name="Water_list" >
+        <item>North Cairo Water Distribution </item>
+        <item> South Cairo Water Distribution </item>
+        <item> Alexandria Water Distribution </item>
+        <item> South Cairo Water Distribution </item>
+
+    </string-array>
+
+    <string-array name="Internet_list" >
+        <item> Vodafone</item>
+        <item> We </item>
+        <item> orange </item>
+        <item> Etisalat </item>
+
+
+    </string-array>
+
+    <string-array name="Gas_list" >
+        <item>Egyptian Natural Gas </item>
+        <item>Eagle Gas </item>
+        <item> Gus Cole </item>
+
+    </string-array>
+
+
+
+</resources>
